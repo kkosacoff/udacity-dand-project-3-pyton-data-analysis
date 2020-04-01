@@ -1,4 +1,4 @@
-# udacity-dand-project-4-eda-python
+# Udacity Data Analysis Nanodegree - Project 4 - Exploratory Data Analysis with Python
 In this project, I analyze a dataset and then communicate my findings about it. I use the Python libraries NumPy, pandas, and Matplotlib to make my analysis easier.
 
 In the project I:
